@@ -30,8 +30,6 @@ Diseño conceptual de una misión espacial destinada al sistema de Urano, con:
 - Estimación del budget
 - Arquitectura final del vehículo con CAD
 
-*Basado en la memoria completa del proyecto* :contentReference[oaicite:1]{index=1}.
-
 ---
 
 ## 🌬️ 3. Computational Fluid Dynamics – Análisis de la Semilla del Arce  
@@ -44,8 +42,6 @@ Simulación CFD del comportamiento aerodinámico de una semilla de arce, analiza
 - Mallado y estudio de estabilidad  
 - Distribución de presiones y comportamiento en caída  
 - Relación entre sustentación y drag durante la rotación  
-
-*Contenido detallado en el informe* :contentReference[oaicite:2]{index=2}.
 
 ---
 
@@ -63,10 +59,6 @@ Estudio profundo de aleaciones de alta entropía para aplicaciones aeroespaciale
 - Procesos de fabricación aditiva: LENS, SLM  
 - Aplicaciones para alta temperatura y estructuras críticas  
 
-*Información extraída del informe y su presentación*  
-:contentReference[oaicite:3]{index=3}  
-:contentReference[oaicite:4]{index=4}
-
 ---
 
 ## 📄 5. Carta de Recomendación – Universidad Rey Juan Carlos  
@@ -77,11 +69,6 @@ Carta firmada por el director de la Escuela de Ingeniería de Fuenlabrada (EIF),
 - Buen rendimiento académico  
 - Motivación por estudiar en el extranjero (Japón)  
 - Capacidad de colaboración y adaptación
-
-*Documento oficial firmado digitalmente* :contentReference[oaicite:5]{index=5}.
-
----
-
 
 ---
 
