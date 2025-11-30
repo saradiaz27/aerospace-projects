@@ -16,8 +16,6 @@ Proyecto completo de diseño conceptual de un lanzador para órbitas LEO, que cu
 - Estudio estructural y térmico  
 - Análisis de riesgos y viabilidad  
 
-*Basado en el documento completo del proyecto* :contentReference[oaicite:0]{index=0}.
-
 ---
 
 ## 🛰️ 2. Vehículos Espaciales – Proyecto “Uranus Mission”  
