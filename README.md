@@ -4,7 +4,7 @@ This repository brings together selected projects from my Aerospace Engineering 
 
 ---
 ## ☄️ 1. Bachelor's Thesis: Short-Range Air-to-Air Missiles
-**Report:**
+**Report:** [TFG_Sara_Díaz.pdf](TFG_Sara_Díaz.pdf)  
 Simulation-based academic study comparing conventional guidance approaches with a deep reinforcement learning TP3 approach under shared modelling assumptions. The work combines aerodynamic modelling, numerical simulation and comparative evaluation.
 
 - Aerospace modelling and numerical simulation.
