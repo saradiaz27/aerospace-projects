@@ -1,74 +1,81 @@
 Aerospace Projects – Sara Díaz Serrano
 
-Este repositorio recopila algunos de mis proyectos más relevantes realizados durante mi grado en ingeniería aeroespacial, con especial enfoque en CFD, dinámica de vuelo y diseño de vehículos espaciales, materiales avanzados (HEAs) y una carta de recomendación académica.
+This repository brings together selected projects from my Aerospace Engineering degree at Universidad Rey Juan Carlos. It covers aerospace vehicle design, computational fluid dynamics (CFD), advanced materials, and modelling and simulation. It also includes my bachelor's thesis, an academic recommendation letter, and a section for Udemy course certificates.
+
+---
+## ☄️ 1. Bachelor's Thesis: Short-Range Air-to-Air Missiles
+**Report:**
+Simulation-based academic study comparing conventional guidance approaches with a deep reinforcement learning TP3 approach under shared modelling assumptions. The work combines aerodynamic modelling, numerical simulation and comparative evaluation.
+
+- Aerospace modelling and numerical simulation.
+- Comparative study of conventional and AI-based guidance approaches.
+- Assessment and interpretation of simulation results.
+- Critical discussion of model limitations and the scope of the conclusions.
+- Technical reporting and research documentation.
+
+---
+## 🚀 2. Conceptual Vehicle Design of a Microsatellite Launcher  
+**Report:** [Launch_Vehicle_Design.pdf](Launch_Vehicle_Design.pdf)  
+Conceptual design of a launch vehicle for low Earth orbit (LEO), covering:
+
+- Mission analysis and market justification.
+- Architecture selection and staging configuration.
+- Preliminary propulsion, mass, geometry and layout design.
+- Ascent and orbital manoeuvre simulations.
+- Aerodynamic coefficient and load calculations.
+- Structural and thermal studies.
+- Risk and feasibility assessment. 
 
 ---
 
-## 🚀 1. Conceptual Vehicle Design of a Microsatellite Launcher  
-**Archivo:** [Launch_Vehicle_Design.pdf](Launch_Vehicle_Design.pdf)  
-Proyecto completo de diseño conceptual de un lanzador para órbitas LEO, que cubre:
+## 🛰️ 3. Vehículos Espaciales – Proyecto “Uranus Mission”  
+**Report:** [Project Uranus.pdf](Project%20Uranus.pdf)  
+Conceptual design of a space mission to the Uranian system, including:
 
-- Análisis de misión y justificación de mercado  
-- Selección de arquitectura y configuración por etapas  
-- Diseño preliminar de propulsión, masas, geometría y distribución  
-- Simulaciones de ascenso y maniobras orbitales  
-- Cálculo de coeficientes aerodinámicos y cargas  
-- Estudio estructural y térmico  
-- Análisis de riesgos y viabilidad  
-
----
-
-## 🛰️ 2. Vehículos Espaciales – Proyecto “Uranus Mission”  
-**Archivo:** [Project Uranus.pdf](Project%20Uranus.pdf)  
-Diseño conceptual de una misión espacial destinada al sistema de Urano, con:
-
-- Selección de cuerpos objetivo 
-- Arquitectura de misión con orbitadores y CubeSats desplegables 
-- Análisis del entorno, requisitos y trayectorias interplanetarias  
-- Estudio de vehículos de referencia  
-- Diseño preliminar de subsistemas: ADCS, potencia, propulsión, estructuras
-- Estimación del budget
-- Arquitectura final del vehículo con CAD
+- Selection of target bodies.
+- Mission architecture using orbiters and deployable CubeSats.
+- Analysis of the environment, requirements and interplanetary trajectories.
+- Review of reference spacecraft.
+- Preliminary subsystem design: attitude determination and control (ADCS), power, propulsion and structures.
+- Budget estimation.
+- Final vehicle architecture and CAD modelling.
 
 ---
 
-## 🌬️ 3. Computational Fluid Dynamics – Análisis de la Semilla del Arce  
-**Archivo:** [Análisis_CFD_de_la_semilla_del_arce.pdf](Análisis_CFD_de_la_semilla_del_arce.pdf)  
+## 🌬️ 4. Computational Fluid Dynamics – Análisis de la Semilla del Arce  
+**Report:** [Análisis_CFD_de_la_semilla_del_arce.pdf](Análisis_CFD_de_la_semilla_del_arce.pdf)  
+CFD study of the aerodynamic behaviour of a maple seed, analysing:
 
-Simulación CFD del comportamiento aerodinámico de una semilla de arce, analizando:
-
-- Flujo estacionario y transitorio  
-- Modelos rotativos con geometría simplificada  
-- Mallado y estudio de estabilidad  
-- Distribución de presiones y comportamiento en caída  
-- Relación entre sustentación y drag durante la rotación  
+- Steady and unsteady flow.
+- Rotating models with simplified geometry.
+- Mesh generation and stability assessment.
+- Pressure distribution and falling behaviour.
+- The relationship between lift and drag during rotation. 
 
 ---
 
-## ⚙️ 4. High-Entropy Alloys (HEAs) for Aerospace Applications  
-**Archivos:**  
+## ⚙️ 5. High-Entropy Alloys (HEAs) for Aerospace Applications  
+**Report:**  
 - [HEAs_ALEACIONES.pdf](HEAs_ALEACIONES.pdf)  
 - [Presentación_Hea's.pdf](Presentación_Hea%27s.pdf)
+Study of high-entropy alloys for aerospace applications, covering:
 
-Estudio profundo de aleaciones de alta entropía para aplicaciones aeroespaciales:
-
-- Requisitos de materiales aeroespaciales  
-- Cualidades intrínsecas 
-- HEAs más estudiadas: Cantor, Al-Cr-Fe-Mn-Ti  
-- Comparación con aleaciones actuales  
-- Procesos de fabricación aditiva: LENS, SLM  
-- Aplicaciones para alta temperatura y estructuras críticas  
+- Aerospace material requirements.
+- Intrinsic material properties.
+- Selected alloy systems, including the Cantor alloy and Al-Cr-Fe-Mn-Ti.
+- Comparison with existing alloys.
+- Additive manufacturing processes: LENS and SLM.
+- Applications in high-temperature environments and critical structures. 
 
 ---
 
-## 📄 5. Carta de Recomendación – Universidad Rey Juan Carlos  
-**Archivo:** [Carta_recomendacion_DiazSerrano.pdf](Carta_recomendacion_DiazSerrano.pdf)
+## 📄 6. Carta de Recomendación – Universidad Rey Juan Carlos  
+**Report:** [Carta_recomendacion_DiazSerrano.pdf](Carta_recomendacion_DiazSerrano.pdf)
+Letter signed by the Director of the Fuenlabrada School of Engineering (EIF), Rey Juan Carlos University, highlighting:
 
-Carta firmada por el director de la Escuela de Ingeniería de Fuenlabrada (EIF), destacando:
-
-- Buen rendimiento académico  
-- Motivación por estudiar en el extranjero (Japón)  
-- Capacidad de colaboración y adaptación
+- Academic performance.
+- Motivation to study abroad in Japan.
+- Collaboration and adaptability.
 
 ---
 
